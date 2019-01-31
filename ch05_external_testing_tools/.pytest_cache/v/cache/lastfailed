@@ -1,0 +1,5 @@
+{
+  "test_ch04_mabel.py::Prime_test::test_is_one_prime": true,
+  "test_ch04_mabel.py::Prime_test::test_is_two_prime": true,
+  "test_ch05_mabel.py::calc_tdd::test_calc_add_str": true
+}

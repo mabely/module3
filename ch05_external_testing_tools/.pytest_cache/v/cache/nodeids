@@ -1,0 +1,5 @@
+[
+  "test_ch05_mabel.py::calc_tdd::test_calc_add_deci",
+  "test_ch05_mabel.py::calc_tdd::test_calc_add_result_check",
+  "test_ch05_mabel.py::calc_tdd::test_calc_add_str"
+]

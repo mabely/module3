@@ -1,7 +1,7 @@
 # import ipdb
 
 def is_prime(number):
-        if number <= 1:
+        if number <= 0:
                 return False
         elif type(number) != int:
                 return False

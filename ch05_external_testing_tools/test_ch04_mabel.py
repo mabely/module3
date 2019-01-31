@@ -1,3 +1,5 @@
+import pytest
+
 import unittest
 from ch04_mabel import is_prime
 
@@ -8,7 +10,7 @@ class Prime_test(unittest.TestCase):
         self.assertFalse(is_prime(8), msg='8 is not prime')
     def test_is_deci_prime(self):
         self.assertFalse(is_prime(5.3), msg='decimals not prime')
-    def test_is_two_prime(self):
+    def test_is_one_prime(self):
         self.assertFalse(is_prime(1))
     def test_is_neg_prime(self):
         for index in range(-1, -10, -1):
