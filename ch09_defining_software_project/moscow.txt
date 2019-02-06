@@ -1,0 +1,22 @@
+##### MUST HAVE #####
+Search people by surname, postcode
+Sort by distance, name alphabetically
+Search business type, name, postcode
+Sort by business name, distance
+CLI
+
+##### SHOULD HAVE #####
+View 50 results maximum
+Relevant message for when no results match
+Search by city
+
+##### COULD HAVE #####
+UI
+Display related results: partial name match, related business type
+Number of results matched
+Distance in miles or km
+Nicely formatted results for user on CLI
+User location
+
+##### WON’T HAVE #####
+Third table in db
